@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+zotero-astra-novio.yaml
+tunnel-client/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
